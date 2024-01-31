@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="offWhite">#EFE9E9</color>
+    <color name="statusBarColor">#FF4081</color>
+    <color name="darkGreen">#1C3C3B</color>
+    <color name="lightGreen">#1F4A47</color>
+    <color name="lightGrey">#818A89</color>
+<!--    <color name="chat_color_sender">#1E88E5</color>-->
+<!--    <color name="chat_color_receiver">#7CB342</color>-->
+
+    <color name="chat_color_sender">#8F8F8F</color>
+    <color name="chat_color_receiver">#3B8E8A</color>
+</resources>

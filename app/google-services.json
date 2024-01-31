@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043265086791",
+    "project_id": "chatterbox-c4565",
+    "storage_bucket": "chatterbox-c4565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043265086791:android:01342f497af7ad82bbd862",
+        "android_client_info": {
+          "package_name": "com.example.chatterbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vCjqqunLlr6TlwG4SWf8Pq-u_abtMtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
